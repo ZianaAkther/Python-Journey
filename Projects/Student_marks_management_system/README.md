@@ -6,8 +6,11 @@ A beginner Python project for managing student marks.
 
 ## Features
 
-- Add students
-- Display student records
+- Add students with basic details: Name and ID.
+- Keep subject-wise marks for each student.
+- Marks Calculation: Total marks, Average marks.
+- Grading System
+- Display student records: Formatted report generation
 
 ## Skills Practiced
 
@@ -15,4 +18,5 @@ A beginner Python project for managing student marks.
 - Lists
 - Functions
 - Loops
+- Conditionals
 - User Input
